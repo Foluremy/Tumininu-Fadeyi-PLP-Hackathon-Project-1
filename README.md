@@ -17,4 +17,8 @@ A personal portfolio website showcasing my skills, projects, and experience as a
 * HTML
 * CSS
 
+# Deployed on GitPages
+https://foluremy.github.io/Tumininu-Fadeyi-PLP-Hackathon-Project-1/
+
+
 https://github.com/MuriithiEric/August-Cohort-Hackathon-1
