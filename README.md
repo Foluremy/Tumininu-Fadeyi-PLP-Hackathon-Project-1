@@ -17,3 +17,4 @@ A personal portfolio website showcasing my skills, projects, and experience as a
 * HTML
 * CSS
 
+https://github.com/MuriithiEric/August-Cohort-Hackathon-1
